@@ -1,0 +1,7 @@
+ProductCategoryID	產品類別名稱(犬寶保健)
+CategoryName		類別名稱	(魚油粉...)
+ParentCategoryID	父類別名稱(犬保)
+CategoryCreateDate	類別建立日期
+CategoryCreateUserID	類別建立人
+CategoryUpdateDate	類別更新日期
+CategoryUpdateUserID	類別更新人
